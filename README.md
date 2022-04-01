@@ -1,2 +1,2 @@
-#python 공부
+# python 공부
 기본문법
